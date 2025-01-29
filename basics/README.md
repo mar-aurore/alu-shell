@@ -10,3 +10,5 @@ This script lists the contents of current directory in long format.
 This script lists the contents of the current directory, including hidden files (those starting with `.`), in long format.
 ## 5-listfilesdigitonly
 This script lists the contents of the current directory, including hidden files (those starting with `.`), in long format with numeric user and group IDs.
+## 6-firstdirectory
+This script creates a directory named `my_first_directory` in the `/tmp/` directory.
