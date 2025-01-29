@@ -6,3 +6,5 @@ This script lists the content of the current directory
 This script changes the working directory to the user's home directory.
 ## 3-listfiles
 This script lists the contents of current directory in long format.
+## 4-listmorefiles
+This script lists the contents of the current directory, including hidden files (those starting with `.`), in long format.
