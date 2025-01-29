@@ -14,4 +14,5 @@ This script lists the contents of the current directory, including hidden files 
 This script creates a directory named `my_first_directory` in the `/tmp/` directory.
 ## 7-movethatfile
 This script moves the file `betty` from `/tmp/` to `/tmp/my_first_directory/`.
-
+## 8-firstdelete
+This script deletes the file `betty` from `/tmp/my_first_directory/`.
