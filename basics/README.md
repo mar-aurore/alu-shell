@@ -24,4 +24,5 @@ This script changes the working directory to the previous one.
 This script lists all files (including hidden ones) in the current directory, the parent directory, and the `/boot` directory in long format.
 ## 12-file_type
 This script prints the type of the file named `iamafile` in the `/tmp` directory.
-
+## 13-symbolic_link
+ The full content of the script (`13-symbolic_link`)
